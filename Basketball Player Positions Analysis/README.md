@@ -12,13 +12,13 @@ The script analyzes a dataset of basketball player data, categorizing players in
 
 2. **Download Data**: Download the basketball player data (`basketballDataProcessed.csv`) and place it in the same directory as the MATLAB script.
 
-3. **Run the Script**: Open MATLAB and run the `basketball_analysis.m` script. Ensure MATLAB is properly configured and all required toolboxes are installed.
+3. **Run the Script**: Open MATLAB and run the `basketball_analysis.mlx` script. Ensure MATLAB is properly configured and all required toolboxes are installed.
 
 4. **Interpret Results**: Review the generated visualizations and analyses to understand the clustering patterns and groupings of basketball players based on their positions and performance metrics.
 
 ## Repository Structure
 
-- `basketball_analysis.m`: MATLAB script containing the analysis code.
+- `basketball_analysis.mlx`: MATLAB script containing the analysis code.
 - `basketballDataProcessed.csv`: Dataset containing basketball player data.
 - `README.md`: Documentation providing an overview of the analysis and instructions for usage.
 

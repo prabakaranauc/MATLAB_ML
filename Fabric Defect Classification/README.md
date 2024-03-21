@@ -48,6 +48,3 @@ Contributions to improve the program or add additional classifiers are welcome. 
 ## License
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
----
-
-Feel free to customize the README according to your specific project details, such as adding more detailed usage instructions or providing information about the classifiers used.

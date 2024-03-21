@@ -10,7 +10,7 @@ The script utilizes a dataset (`carData.csv`) containing features such as engine
 
 1. **Clone the Repository**: Clone this repository to your local machine.
 
-2. **Download Data**: Ensure you have the `carData.csv` file in the same directory as the MATLAB script.
+2. **Download Data**: Ensure you have the `carData.csv` file in the same directory as the MATLAB script.(This dataset is provided courtesy of MathWorks)
 
 3. **Run the Script**: Open MATLAB and run the `fuel_economy_prediction.mlx` script. Make sure MATLAB is properly configured and all required toolboxes are installed.
 
@@ -24,9 +24,6 @@ The script utilizes a dataset (`carData.csv`) containing features such as engine
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0- see the [LICENSE](LICENSE) file for details.
 
----
-
-By organizing the MATLAB script into sections and providing clear explanations in the README.md file, users can easily understand and utilize the fuel economy prediction analysis.
 

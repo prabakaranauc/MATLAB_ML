@@ -26,6 +26,4 @@ The script analyzes a dataset of basketball player data, categorizing players in
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
----
 
-By organizing the MATLAB script and providing clear instructions in the README.md file, users can easily understand and utilize the basketball player positions analysis.

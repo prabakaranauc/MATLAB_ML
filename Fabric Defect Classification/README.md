@@ -46,7 +46,7 @@ The program displays the performance metrics of each classifier, including resub
 Contributions to improve the program or add additional classifiers are welcome. Please fork the repository, make your changes, and submit a pull request.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 ---
 

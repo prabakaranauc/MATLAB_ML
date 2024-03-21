@@ -1,4 +1,4 @@
-# Wine Color Classification with Machine Learning
+# Wine Color Classification 
 
 This MATLAB program is designed to classify wines as red or white based on various parameters using machine learning algorithms. It utilizes a dataset provided in a TXT file containing several features such as acidity levels, sugar content, and alcohol percentage, along with the color of the wine. The program employs different machine learning models to train on this dataset and evaluates their performance to determine the best model for accurate classification.
 
@@ -27,7 +27,7 @@ The dataset used in this program is stored in `Wine_Multiclass_Color_classificat
 1. **Installation**: Ensure you have MATLAB installed on your system.
 2. **Clone or Download**: Clone or download this repository to your local machine.
 3. **Dataset Placement**: Place the dataset file (`Wine_Multiclass_Color_classification.txt`) in the same directory as the MATLAB script.
-4. **Run the Script**: Open MATLAB and execute the `wine_classification.m` script.
+4. **Run the Script**: Open MATLAB and execute the `Wine_Color_Classification.mlx` script.
 5. **View Results**: The program will display the accuracy of each machine learning model and indicate the best-performing model based on the evaluation metrics.
 
 ## License

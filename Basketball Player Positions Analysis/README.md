@@ -10,7 +10,7 @@ The script analyzes a dataset of basketball player data, categorizing players in
 
 1. **Clone the Repository**: Clone this repository to your local machine.
 
-2. **Download Data**: Download the basketball player data (`basketballDataProcessed.csv`) and place it in the same directory as the MATLAB script.
+2. **Download Data**: Download the basketball player data (`basketballDataProcessed.csv`) and place it in the same directory as the MATLAB script. (This dataset is provided courtesy of MathWorks)
 
 3. **Run the Script**: Open MATLAB and run the `basketball_analysis.mlx` script. Ensure MATLAB is properly configured and all required toolboxes are installed.
 
@@ -29,5 +29,3 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 ---
 
 By organizing the MATLAB script and providing clear instructions in the README.md file, users can easily understand and utilize the basketball player positions analysis.
-
-## This dataset is provided courtesy of MathWorks.

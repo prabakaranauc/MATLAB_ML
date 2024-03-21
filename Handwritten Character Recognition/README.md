@@ -59,7 +59,7 @@ The repository has the following structure:
 
 ## Data
 
-Ensure the raw data for handwritten characters is stored in the `Data` directory. Each character's data should be saved in a separate text file.
+Ensure the raw data for handwritten characters is stored in the `Data` directory. Each character's data should be saved in a separate text file.(This dataset is provided courtesy of MathWorks)
 
 ## Results
 
@@ -67,7 +67,7 @@ After running the `letterclassification.mlx` script, the results will be saved i
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3.0. See the [GNU General Public License v3.0](LICENSE) file for details.
 
 ## Contributing
 Contributions to improve the program or add additional classifiers are welcome. Please fork the repository, make your changes, and submit a pull request.
